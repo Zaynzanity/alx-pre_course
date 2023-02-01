@@ -1,0 +1,4 @@
+root@54f8786393f4:/# alx-pre_course# git add                                                                                
+bash: alx-pre_course#: command not found                                                                                    
+root@54f8786393f4:/# alx-pre_course# echo 'My first readme' > README.md                                                     
+bash: alx-pre_course#: command not found 
