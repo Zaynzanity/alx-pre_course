@@ -1,0 +1,16 @@
+root@54f8786393f4:/# bash/                                                                                                  
+bash: bash/: No such file or directory                                                                                      
+root@54f8786393f4:/# c/.                                                                                                    
+bash: c/.: No such file or directory                                                                                        
+root@54f8786393f4:/# js/.                                                                                                   
+bash: js/.: No such file or directory                                                                                       
+root@54f8786393f4:/# c/c_is_fun.c                                                                                           
+bash: c/c_is_fun.c: No such file or directory                                                                               
+root@54f8786393f4:/# js/main.js                                                                                             
+bash: js/main.js: No such file or directory                                                                                 
+root@54f8786393f4:/# js/index.js                                                                                            
+bash: js/index.js: No such file or directory                                                                                
+root@54f8786393f4:/# alx-pre_course#!/bin/bash echo "ALX"                                                                   
+bash: !/bin/bash: event not found                                                                                           
+root@54f8786393f4:/# bash/school/#!/bin/bash echo "school"                                                                  
+bash: !/bin/bash: event not found
