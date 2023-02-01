@@ -1,0 +1,15 @@
+root@54f8786393f4:/# git clone https://github_pat_11A2BZ4ZI0NgcT6zAiEz0H_DPtj2a9vUFGUcj2z52MqsEyfLTt4laIcswD8QoG3yRNX7GPHXJV
+51vsslZo@github.com/zaynzanity/alx-pre_course.git                                                                           
+Cloning into 'alx-pre_course'...                                                                                            
+warning: You appear to have cloned an empty repository.                                                                     
+root@54f8786393f4:/# cd alx-pre_course/                                                                                     
+root@54f8786393f4:/alx-pre_course# git config --global user.email"sibacm29@gmail.com"                                       
+root@54f8786393f4:/alx-pre_course# git config --global user.name "zayn"                                                     
+root@54f8786393f4:/alx-pre_course# git add .                                                                                
+root@54f8786393f4:/alx-pre_course# git commit -m 'My first commit'[master (root-commit)98eef93] My first commit 1 file chang
+ed, 1 insertion(+) create mode 100644 README.md                                                                             
+bash: syntax error near unexpected token `('                                                                                
+root@54f8786393f4:/alx-pre_course# git push Enumerating objects: 3, done. Counting objects: 100% (3/3), done. Writing object
+s: 100% (3/3), 212 by tes /212.00 KiB/s, done. Total 3 (delta 0 ), reused 0 (delta 0) To https://github.com/zaynzanity/alx-p
+re_course.git * [new branch] master -> master                                                                               
+bash: syntax error near unexpected token `('                                                                                
