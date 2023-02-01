@@ -1,0 +1,6 @@
+root@54f8786393f4:/# bash/alx                                                                                               
+bash: bash/alx: No such file or directory                                                                                   
+root@54f8786393f4:/# echo "ALXSCHOOL"                                                                                       
+ALXSCHOOL                                                                                                                   
+root@54f8786393f4:/# bash/school echo "SCHOOL" echo "The school is open!"                                                   
+bash: bash/school: No such file or directory
