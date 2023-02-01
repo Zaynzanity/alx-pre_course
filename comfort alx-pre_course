@@ -11,5 +11,4 @@ ed, 1 insertion(+) create mode 100644 README.md
 bash: syntax error near unexpected token `('                                                                                
 root@54f8786393f4:/alx-pre_course# git push Enumerating objects: 3, done. Counting objects: 100% (3/3), done. Writing object
 s: 100% (3/3), 212 by tes /212.00 KiB/s, done. Total 3 (delta 0 ), reused 0 (delta 0) To https://github.com/zaynzanity/alx-p
-re_course.git * [new branch] master -> master                                                                               
-bash: syntax error near unexpected token `('                                                                                
+re_course.git * [new branch] master -> master 
